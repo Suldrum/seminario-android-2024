@@ -1,0 +1,29 @@
+<resources>
+    <!-- SYSTEM INFORMATION -->
+    <string name="app_name">Comp¡argh!tir</string>
+    <!-- NETWORKING -->
+    <string name="not_internet_connection">There is no Internet connection. Please check your network.</string>
+    <!-- NAV ITEMS -->
+    <string name="nav_home">Home</string>
+    <string name="nav_trending">Trending</string>
+    <!-- UI -->
+    <string name="detail_genres_title">Genres:</string>
+    <string name="btn_retry">Retry</string>
+    <!-- NOT DATA FOUND MODELS -->
+    <string name="default_no_data">No data available</string>
+    <string name="default_no_title">No title available</string>
+    <string name="default_no_overview">No overview available</string>
+    <string name="default_unknown">Unknown</string>
+    <string name="default_no_homepage">Homepage not available</string>
+    <string name="default_no_name">No name available</string>
+    <string name="default_no_iso">No ISO code available</string>
+    <string name="default_no_logo">No logo available</string>
+    <!-- NOT DATA FOUND -->
+    <string name="no_related_content_found">No related content found</string>
+    <string name="no_genres_available">It seems this movie does not have any genres yet.</string>
+    <string name="not_movies_found">No movies available.</string>
+    <string name="not_movie_found">The movie was not found. Please check and try again.</string>
+    <!-- ERROR MESSAGES -->
+    <string name="scroll_state_error">Unable to retrieve the scroll state. Please ensure it was saved correctly before navigating.</string>
+    <string name="generic_error_message">An unexpected error occurred. Please try again later.</string>
+</resources>

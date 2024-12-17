@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- INFORMACIÓN DEL SISTEMA -->
+    <string name="app_name">Comp¡argh!tir</string>
+    <!-- CONEXIÓN DE RED -->
+    <string name="not_internet_connection">No hay conexión a Internet. Por favor, verifica tu red.</string>
+    <!-- ELEMENTOS DE NAVEGACIÓN -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_trending">Tendencias</string>
+    <!-- INTERFAZ DE USUARIO -->
+    <string name="detail_genres_title">Géneros:</string>
+    <string name="btn_retry">Reintentar</string>
+    <!-- MODELOS SIN DATOS -->
+    <string name="default_no_data">No hay datos disponibles</string>
+    <string name="default_no_title">No hay título disponible</string>
+    <string name="default_no_overview">No hay descripción disponible</string>
+    <string name="default_unknown">Desconocido</string>
+    <string name="default_no_homepage">Página principal no disponible</string>
+    <string name="default_no_name">No hay nombre disponible</string>
+    <string name="default_no_iso">No hay código ISO disponible</string>
+    <string name="default_no_logo">No hay logo disponible</string>
+    <!-- NO HAY DATOS ENCONTRADOS -->
+    <string name="no_related_content_found">No se encontraron contenidos relacionados</string>
+    <string name="no_genres_available">Parece que esta película aún no tiene géneros.</string>
+    <string name="not_movies_found">No hay películas disponibles.</string>
+    <string name="not_movie_found">No se encontró la película. Por favor, verifica e intenta nuevamente.</string>
+    <!-- MENSAJES DE ERROR -->
+    <string name="scroll_state_error">No se pudo recuperar el estado de desplazamiento. Asegúrate de que se guardó correctamente antes de navegar.</string>
+    <string name="generic_error_message">Ocurrió un error inesperado. Por favor, intenta nuevamente más tarde.</string>
+</resources>

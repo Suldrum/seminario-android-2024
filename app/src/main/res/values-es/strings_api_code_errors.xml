@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unexpected_error">Error inesperado. Código: %1$d</string>
+    <string name="error_200_entry_not_found">Entrada no encontrada: El elemento que estás intentando editar no se puede encontrar.</string>
+    <string name="error_400_validation_failed">Hubo un problema con la validación de los datos. Por favor, revisa e intenta de nuevo.</string>
+    <string name="error_400_invalid_input">La entrada no es válida.</string>
+    <string name="error_400_invalid_page">Página no válida: Las páginas comienzan en 1 y el máximo es 500. Se espera que sean un número entero.</string>
+    <string name="error_401_auth_failed">Autenticación fallida: No tienes permisos para acceder al servicio.</string>
+    <string name="error_401_invalid_api_key">Clave de API no válida: Debes tener una clave válida.</string>
+    <string name="error_401_suspended_api_key">Clave de API suspendida: El acceso a tu cuenta ha sido suspendido, contacta a TMDB.</string>
+    <string name="error_401_invalid_token">Token no válido.</string>
+    <string name="error_401_invalid_request_token">Token de solicitud no válido: El token de solicitud ha expirado o es inválido.</string>
+    <string name="error_401_authentication_failed">Autenticación fallida.</string>
+    <string name="error_404_invalid_id">ID no válida: El ID pre-requisito es inválido o no se encuentra.</string>
+    <string name="error_404_resource_not_found">El recurso que solicitaste no se pudo encontrar.</string>
+    <string name="error_405_invalid_format">Formato no válido: Este servicio no existe en ese formato.</string>
+    <string name="error_422_invalid_parameters">Parámetros no válidos: Tus parámetros de solicitud son incorrectos.</string>
+    <string name="error_429_request_limit">El número de solicitudes (#) supera el límite permitido de (40).</string>
+    <string name="error_500_internal">Error interno: Algo salió mal, contacta a TMDB.</string>
+    <string name="error_500_invalid_id">El ID es inválido.</string>
+    <string name="error_500_failed">Ocurrió un error. Por favor, intenta de nuevo.</string>
+    <string name="error_501">Servicio no válido: este servicio no existe.</string>
+    <string name="error_503_service_offline">Servicio fuera de línea: Este servicio está temporalmente fuera de línea, intenta de nuevo más tarde.</string>
+    <string name="error_504_timeout">Tu solicitud al servidor backend ha agotado el tiempo de espera. Intenta de nuevo.</string>
+    <string name="io_error_message">Error de conexión. Por favor, revisa tu red y vuelve a intentarlo.</string>
+    <string name="null_pointer_error">No se pudo completar la solicitud debido a un error inesperado. Inténtalo de nuevo.</string>
+</resources>
+
